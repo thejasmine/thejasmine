@@ -3,7 +3,7 @@
 #### My Working Stack:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=jupyter&logoColor=F57C00" />
+  <img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e01e5a" />
     <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
